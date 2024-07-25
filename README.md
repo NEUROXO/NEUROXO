@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NEUROXO
-- 👀 I’m interested in Electronics & Brain Computer  Interfaces
-- 🌱 I’m currently learning Neuroscience
-- 💞️ I’m looking to collaborate on Neuroscience & Rehablitation Projects
-- 📫 You can reach me on teamneuroxo@gmail.com
+- 👋 Hi, I’m @NEUROXO!
+- 👀 I’m interested in Electronics & Brain Computer  Interfaces.
+- 🌱 I’m currently learning Neuroscience.
+- 💞️ I’m looking to collaborate on Neuroscience & Rehablitation Projects.
+- 📫 You can reach me on teamneuroxo@gmail.com.
 - ⚡ Tagline - Taking Disability as Mission to Empower.
 
 <!---
